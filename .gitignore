@@ -12,7 +12,6 @@ coverage
 .next/
 out/
 build
-build
 dist
 
 # misc
@@ -33,3 +32,5 @@ yarn-error.log*
 
 # turbo
 .turbo
+
+stats.html
