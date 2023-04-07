@@ -1,4 +1,4 @@
-# Turborepo starter
+# Rspot
 
 This is an official pnpm starter turborepo.
 
