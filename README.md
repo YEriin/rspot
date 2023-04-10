@@ -1,6 +1,6 @@
 # Rspot
 
-This is an official pnpm starter turborepo.
+This is an turborepo for rspot.
 
 ## What's inside?
 
